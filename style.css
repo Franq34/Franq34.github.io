@@ -18,13 +18,13 @@ a {
 img {
 		border:0px;
 	}
-/* Glówny uklad strony */
+/* GlÃ³wny uklad strony */
 .tlo {
-		background:url(images/tlo.jpg) repeat;
+		background:url(tlo.jpg) repeat;
 		width:942px;
 	}
 #logo {
-		background:url(images/logo.jpg);
+		background:url(logo.jpg);
 		width:752px;
 		height:226px;
 	}
@@ -39,7 +39,7 @@ img {
 		height:auto;
 		overflow: hidden;
 	}
-/* Glówna tresc strony */
+/* GlÃ³wna tresc strony */
 .menu {
 		margin:8px;
 		background:#ffffff;
@@ -126,7 +126,7 @@ img {
 	}
 /* Dolna czesc, stopka */
 #stopka {
-		background:url(images/stopka.jpg);
+		background:url(stopka.jpg);
 		width:752px;
 		height:19px;
 	}
